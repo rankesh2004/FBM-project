@@ -1,0 +1,264 @@
+{
+    "flight":[
+        {
+        "id": "FL12345",
+        "airline": "Indigo Airlines",
+        "flightNumber": "6E203",
+        "departure": {
+            "place": "Chennai",
+            "date": "2024-12-25",
+            "time": "08:30 AM"
+        },
+        "destination": "Bangalore",
+        "duration": "1h 20m",
+        "price": 3200
+        },
+        {
+        "id": "FL12346",
+        "airline": "Air India",
+        "flightNumber": "AI101",
+        "departure": {
+            "place": "Delhi",
+            "date": "2024-12-26",
+            "time": "09:00 AM"
+        },
+        "destination": "Mumbai",
+        "duration": "2h 10m",
+        "price": 4500
+        },
+        {
+        "id": "FL12347",
+        "airline": "SpiceJet",
+        "flightNumber": "SG405",
+        "departure": {
+            "place": "Hyderabad",
+            "date": "2024-12-27",
+            "time": "07:00 AM"
+        },
+        "destination": "Kolkata",
+        "duration": "2h 45m",
+        "price": 5100
+        },
+        {
+        "id": "FL12348",
+        "airline": "GoAir",
+        "flightNumber": "G8123",
+        "departure": {
+            "place": "Mumbai",
+            "date": "2024-12-28",
+            "time": "10:00 AM"
+        },
+        "destination": "Chennai",
+        "duration": "1h 40m",
+        "price": 3700
+        },
+        {
+        "id": "FL12349",
+        "airline": "Vistara",
+        "flightNumber": "UK402",
+        "departure": {
+            "place": "Bangalore",
+            "date": "2024-12-29",
+            "time": "06:15 AM"
+        },
+        "destination": "Pune",
+        "duration": "1h 10m",
+        "price": 2800
+        },
+        {
+        "id": "FL12350",
+        "airline": "Indigo Airlines",
+        "flightNumber": "6E503",
+        "departure": {
+            "place": "Ahmedabad",
+            "date": "2024-12-30",
+            "time": "11:30 AM"
+        },
+        "destination": "Delhi",
+        "duration": "1h 50m",
+        "price": 3300
+        },
+        {
+        "id": "FL12351",
+        "airline": "Air India",
+        "flightNumber": "AI202",
+        "departure": {
+            "place": "Pune",
+            "date": "2024-12-31",
+            "time": "03:00 PM"
+        },
+        "destination": "Goa",
+        "duration": "1h 05m",
+        "price": 2500
+        },
+        {
+        "id": "FL12352",
+        "airline": "SpiceJet",
+        "flightNumber": "SG101",
+        "departure": {
+            "place": "Lucknow",
+            "date": "2024-12-24",
+            "time": "05:45 PM"
+        },
+        "destination": "Jaipur",
+        "duration": "1h 15m",
+        "price": 3000
+        },
+        {
+        "id": "FL12353",
+        "airline": "GoAir",
+        "flightNumber": "G805",
+        "departure": {
+            "place": "Delhi",
+            "date": "2024-12-26",
+            "time": "02:30 PM"
+        },
+        "destination": "Chandigarh",
+        "duration": "1h 00m",
+        "price": 2200
+        },
+        {
+        "id": "FL12354",
+        "airline": "Vistara",
+        "flightNumber": "UK308",
+        "departure": {
+            "place": "Chennai",
+            "date": "2024-12-27",
+            "time": "12:00 PM"
+        },
+        "destination": "Trivandrum",
+        "duration": "1h 25m",
+        "price": 3100
+        },
+        {
+        "id": "FL12355",
+        "airline": "Indigo Airlines",
+        "flightNumber": "6E607",
+        "departure": {
+            "place": "Bangalore",
+            "date": "2024-12-28",
+            "time": "09:00 PM"
+        },
+        "destination": "Hyderabad",
+        "duration": "1h 00m",
+        "price": 2400
+        },
+        {
+        "id": "FL12356",
+        "airline": "Air India",
+        "flightNumber": "AI707",
+        "departure": {
+            "place": "Mumbai",
+            "date": "2024-12-29",
+            "time": "11:00 AM"
+        },
+        "destination": "Jaipur",
+        "duration": "2h 30m",
+        "price": 4600
+        },
+        {
+        "id": "FL12357",
+        "airline": "SpiceJet",
+        "flightNumber": "SG908",
+        "departure": {
+            "place": "Delhi",
+            "date": "2024-12-30",
+            "time": "01:15 PM"
+        },
+        "destination": "Bhubaneswar",
+        "duration": "2h 15m",
+        "price": 4000
+        },
+        {
+        "id": "FL12358",
+        "airline": "GoAir",
+        "flightNumber": "G902",
+        "departure": {
+            "place": "Pune",
+            "date": "2024-12-31",
+            "time": "07:30 AM"
+        },
+        "destination": "Mumbai",
+        "duration": "0h 50m",
+        "price": 2000
+        },
+        {
+        "id": "FL12359",
+        "airline": "Vistara",
+        "flightNumber": "UK509",
+        "departure": {
+            "place": "Hyderabad",
+            "date": "2024-12-25",
+            "time": "10:45 AM"
+        },
+        "destination": "Kochi",
+        "duration": "1h 30m",
+        "price": 3200
+        },
+        {
+        "id": "FL12360",
+        "airline": "Indigo Airlines",
+        "flightNumber": "6E805",
+        "departure": {
+            "place": "Chennai",
+            "date": "2024-12-26",
+            "time": "03:45 PM"
+        },
+        "destination": "Bangalore",
+        "duration": "1h 20m",
+        "price": 3300
+        },
+        {
+        "id": "FL12361",
+        "airline": "Air India",
+        "flightNumber": "AI501",
+        "departure": {
+            "place": "Mumbai",
+            "date": "2024-12-27",
+            "time": "06:00 PM"
+        },
+        "destination": "Kolkata",
+        "duration": "2h 50m",
+        "price": 5300
+        },
+        {
+        "id": "FL12362",
+        "airline": "SpiceJet",
+        "flightNumber": "SG301",
+        "departure": {
+            "place": "Delhi",
+            "date": "2024-12-28",
+            "time": "08:30 PM"
+        },
+        "destination": "Goa",
+        "duration": "3h 00m",
+        "price": 6000
+        },
+        {
+        "id": "FL12363",
+        "airline": "GoAir",
+        "flightNumber": "G802",
+        "departure": {
+            "place": "Pune",
+            "date": "2024-12-29",
+            "time": "05:15 PM"
+        },
+        "destination": "Chennai",
+        "duration": "1h 30m",
+        "price": 3200
+        },
+        {
+        "id": "FL12364",
+        "airline": "Vistara",
+        "flightNumber": "UK709",
+        "departure": {
+            "place": "Hyderabad",
+            "date": "2024-12-30",
+            "time": "09:00 AM"
+        },
+        "destination": "Delhi",
+        "duration": "2h 20m",
+        "price": 4300
+        }
+    ]
+}
